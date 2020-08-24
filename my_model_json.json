@@ -1,0 +1,62 @@
+[
+    {
+      "sensorId": 1,
+      "sensor": "Ворота",
+      "zoneId": 1,
+      "zone": "Периметр"
+    },
+    {
+      "sensorId": 2,
+      "sensor": "Нарушение периметра",
+      "zoneId": 1,
+      "zone": "Периметр"
+    },
+    {
+      "sensorId": 3,
+      "sensor": "Датчик вскрытия Дельфина",
+      "zoneId": 1,
+      "zone": "Периметр"
+    },
+    {
+      "sensorId": 4,
+      "sensor": "Калитка - Вход",
+      "zoneId": 1,
+      "zone": "Периметр"
+    },
+    {
+      "sensorId": 5,
+      "sensor": "Дверь - Вход",
+      "zoneId": 2,
+      "zone": "УРЛК"
+    },
+    {
+      "sensorId": 6,
+      "sensor": "Пожарная тревога",
+      "zoneId": 2,
+      "zone": "УРЛК"
+    },
+    {
+      "sensorId": 7,
+      "sensor": "Неисправность пожарной сигнализации",
+      "zoneId": 2,
+      "zone": "УРЛК"
+    },
+    {
+      "sensorId": 8,
+      "sensor": "Дверь - Вход",
+      "zoneId": 3,
+      "zone": "ДЭС"
+    },
+    {
+      "sensorId": 9,
+      "sensor": "Пожарная тревога",
+      "zoneId": 3,
+      "zone": "ДЭС"
+    },
+    {
+      "sensorId": 10,
+      "sensor": "Неисправность пожарной сигнализации",
+      "zoneId": 3,
+      "zone": "ДЭС"
+    }
+  ]
